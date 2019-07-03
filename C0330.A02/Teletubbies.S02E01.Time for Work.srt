@@ -1290,7 +1290,7 @@ hello Michelle
 
 314
 00:30:17,974 --> 00:30:19,293
-l've got Olivia to see you
+I've got Olivia to see you
 
 315
 00:30:19,614 --> 00:30:20,171
@@ -1601,7 +1601,7 @@ hello Michelle
 
 387
 00:33:51,934 --> 00:33:53,526
-l've got Olivia to see you
+I've got Olivia to see you
 
 388
 00:33:53,734 --> 00:33:54,450
