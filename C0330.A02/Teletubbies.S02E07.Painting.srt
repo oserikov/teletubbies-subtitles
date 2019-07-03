@@ -931,7 +931,7 @@ So many shapes
 
 233
 00:28:56,926 --> 00:28:58,279
-l'm sticking a circle
+I'm sticking a circle
 
 234
 00:29:00,926 --> 00:29:03,838
@@ -947,16 +947,16 @@ good
 
 237
 00:29:19,126 --> 00:29:20,639
-l'm sticking a curly one
+I'm sticking a curly one
 
 238
 00:29:35,286 --> 00:29:41,759
-l'm sticking it down quite hard
+I'm sticking it down quite hard
 Like a wiggly worm
 
 239
 00:29:52,726 --> 00:29:54,159
-l'm sticking a circle
+I'm sticking a circle
 
 240
 00:30:20,646 --> 00:30:22,318
@@ -1013,7 +1013,7 @@ So many shapes
 
 253
 00:31:45,046 --> 00:31:46,525
-l'm sticking a circle
+I'm sticking a circle
 
 254
 00:31:48,926 --> 00:31:50,837
@@ -1029,11 +1029,11 @@ good
 
 257
 00:32:07,206 --> 00:32:08,878
-l'm sticking a curly one
+I'm sticking a curly one
 
 258
 00:32:23,366 --> 00:32:27,882
-l'm sticking it down quite hard Like a
+I'm sticking it down quite hard Like a
 
 259
 00:32:28,086 --> 00:32:29,883
@@ -1041,7 +1041,7 @@ wiggly worm
 
 260
 00:32:40,726 --> 00:32:42,364
-l'm sticking a circle
+I'm sticking a circle
 
 261
 00:33:08,686 --> 00:33:10,802
@@ -1593,7 +1593,7 @@ Ooooh...
 396
 00:47:23,329 --> 00:47:28,244
 It's the Bear It's the Bear
-and l'm coming
+and I'm coming
 
 397
 00:47:28,329 --> 00:47:30,684
@@ -1601,12 +1601,12 @@ Yay!
 
 398
 00:47:40,289 --> 00:47:45,761
-l'm the Bear l'm the Bear
-and l'm coming
+I'm the Bear I'm the Bear
+and I'm coming
 
 399
 00:47:56,049 --> 00:48:01,043
-l'm the Bear l'm the Bear
+I'm the Bear I'm the Bear
 with brown fuzzy hair
 
 400
@@ -1631,7 +1631,7 @@ he-he-he
 
 405
 00:48:20,409 --> 00:48:24,880
-l'm the Bear l'm the Bear
+I'm the Bear I'm the Bear
 with brown fuzzy hair
 
 406
@@ -1668,7 +1668,7 @@ he-he-he
 
 414
 00:48:44,129 --> 00:48:48,566
-l'm the Bear l'm the Bear
+I'm the Bear I'm the Bear
 with brown fuzzy hair
 
 415
@@ -1689,11 +1689,11 @@ Blub-a-lub-a-lub
 
 419
 00:49:08,969 --> 00:49:13,963
-l'm the Bear l'm the Bear with brown fuzzy hair
+I'm the Bear I'm the Bear with brown fuzzy hair
 
 420
 00:49:14,609 --> 00:49:17,169
-l'm hiding from the Lion
+I'm hiding from the Lion
 
 421
 00:49:17,689 --> 00:49:21,204
@@ -1709,7 +1709,7 @@ Ooooh
 
 424
 00:49:31,889 --> 00:49:34,562
-l'm the scary Lion
+I'm the scary Lion
 
 425
 00:49:35,649 --> 00:49:37,162
@@ -1717,7 +1717,7 @@ Grrr
 
 426
 00:49:39,009 --> 00:49:41,000
-And l'm looking for the Bear
+And I'm looking for the Bear
 
 427
 00:49:41,769 --> 00:49:46,285
@@ -1733,8 +1733,8 @@ Boo
 
 430
 00:49:59,289 --> 00:50:05,603
-l'm the scary Lion
-and l'm looking for the Bear
+I'm the scary Lion
+and I'm looking for the Bear
 
 431
 00:50:06,409 --> 00:50:13,008
@@ -1756,15 +1756,15 @@ Where's the Bear?
 435
 00:50:23,489 --> 00:50:28,324
 l am the scary Lion and
-l'm looking for the Bear
+I'm looking for the Bear
 
 436
 00:50:29,569 --> 00:50:31,366
-l'm looking over here
+I'm looking over here
 
 437
 00:50:33,689 --> 00:50:35,600
-and l'm looking over there
+and I'm looking over there
 
 438
 00:50:36,849 --> 00:50:37,725

@@ -137,7 +137,7 @@ Not yet
 35
 00:05:46,407 --> 00:05:48,477
 why don't you come and sit down
-while l just finish what l'm doing
+while l just finish what I'm doing
 
 36
 00:05:49,647 --> 00:05:51,524
@@ -467,7 +467,7 @@ Not yet
 113
 00:09:28,807 --> 00:09:30,320
 why don't you come and sit down
-while l just finish what l'm doing
+while l just finish what I'm doing
 
 114
 00:09:31,447 --> 00:09:33,119
@@ -1249,7 +1249,7 @@ hello, hello, hello
 304
 00:29:35,374 --> 00:29:42,564
 My name is Olivia
-and when l'm grown up
+and when I'm grown up
 
 305
 00:29:42,774 --> 00:29:47,131
@@ -1560,7 +1560,7 @@ hello, hello, hello
 377
 00:33:09,494 --> 00:33:16,764
 My name is Olivia
-and when l'm grown up
+and when I'm grown up
 
 378
 00:33:17,054 --> 00:33:21,047

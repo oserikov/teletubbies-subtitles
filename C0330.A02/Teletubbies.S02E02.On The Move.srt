@@ -1200,7 +1200,7 @@ but it doesn't hurt
 
 299
 00:36:09,398 --> 00:36:11,309
-l'm skating with Shauna
+I'm skating with Shauna
 
 300
 00:36:18,078 --> 00:36:20,911
@@ -1256,11 +1256,11 @@ l like dancing on the ice
 
 313
 00:38:01,158 --> 00:38:03,752
-l'm . . . .dance with Amy
+I'm . . . .dance with Amy
 
 314
 00:38:16,198 --> 00:38:18,553
-l'm the fastest skater
+I'm the fastest skater
 
 315
 00:38:19,158 --> 00:38:22,116
@@ -1309,7 +1309,7 @@ but it doesn't hurt
 
 326
 00:39:57,118 --> 00:39:58,949
-l'm skating with Shauna
+I'm skating with Shauna
 
 327
 00:40:05,838 --> 00:40:08,636
@@ -1365,11 +1365,11 @@ l like dancing on the ice
 
 340
 00:41:48,878 --> 00:41:51,438
-l'm . . . .dance with Amy
+I'm . . . .dance with Amy
 
 341
 00:42:03,918 --> 00:42:06,034
-l'm the fastest skater
+I'm the fastest skater
 
 342
 00:42:06,958 --> 00:42:09,711

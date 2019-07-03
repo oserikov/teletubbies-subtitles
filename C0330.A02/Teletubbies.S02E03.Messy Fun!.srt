@@ -255,7 +255,7 @@ l can do it
 
 64
 00:10:41,967 --> 00:10:43,878
-l'm having it on my own
+I'm having it on my own
 
 65
 00:10:44,647 --> 00:10:46,842
@@ -406,7 +406,7 @@ Now we can get the water shall we
 
 101
 00:13:18,207 --> 00:13:20,038
-l'm washing the tatoes
+I'm washing the tatoes
 
 102
 00:13:25,207 --> 00:13:26,481
@@ -418,7 +418,7 @@ have a look
 
 104
 00:13:32,447 --> 00:13:33,880
-l'm washing my hands
+I'm washing my hands
 
 105
 00:13:34,127 --> 00:13:34,843
@@ -507,7 +507,7 @@ l can do it
 
 126
 00:14:53,887 --> 00:14:56,401
-l'm having it on my own
+I'm having it on my own
 
 127
 00:14:56,607 --> 00:14:58,040
@@ -658,7 +658,7 @@ Now we can get the water shall we
 
 163
 00:17:30,047 --> 00:17:31,526
-l'm washing the tatoes
+I'm washing the tatoes
 
 164
 00:17:37,287 --> 00:17:38,515
@@ -670,7 +670,7 @@ have a look
 
 166
 00:17:44,407 --> 00:17:45,681
-l'm washing my hands
+I'm washing my hands
 
 167
 00:17:46,007 --> 00:17:46,996
@@ -1002,7 +1002,7 @@ Come on
 
 249
 00:29:14,177 --> 00:29:15,929
-l'm making hot chocolate
+I'm making hot chocolate
 
 250
 00:29:16,617 --> 00:29:17,811
@@ -1027,7 +1027,7 @@ Sandy, can you get me a jug down
 
 255
 00:29:34,697 --> 00:29:36,733
-l'm making hot chocolate now
+I'm making hot chocolate now
 
 256
 00:29:41,777 --> 00:29:42,846
@@ -1075,7 +1075,7 @@ the customers and me drink it
 
 267
 00:30:54,017 --> 00:30:56,815
-l'm going to see if it's all right
+I'm going to see if it's all right
 
 268
 00:31:07,177 --> 00:31:09,168
@@ -1127,7 +1127,7 @@ Come on
 
 280
 00:32:21,537 --> 00:32:23,050
-l'm making hot chocolate
+I'm making hot chocolate
 
 281
 00:32:23,737 --> 00:32:24,965
@@ -1152,7 +1152,7 @@ Sandy, can you get me a jug down
 
 286
 00:32:41,857 --> 00:32:43,768
-l'm making hot chocolate now
+I'm making hot chocolate now
 
 287
 00:32:48,817 --> 00:32:50,375
@@ -1200,7 +1200,7 @@ the customers and me drink it
 
 298
 00:34:00,977 --> 00:34:04,606
-l'm going to see if it's all right
+I'm going to see if it's all right
 
 299
 00:34:14,217 --> 00:34:15,286
