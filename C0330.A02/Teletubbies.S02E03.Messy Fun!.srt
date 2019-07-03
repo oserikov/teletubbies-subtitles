@@ -1035,7 +1035,7 @@ Yeh
 
 257
 00:29:44,697 --> 00:29:45,493
-lt's quite heavy
+It's quite heavy
 
 258
 00:29:54,057 --> 00:29:55,206
@@ -1079,7 +1079,7 @@ l'm going to see if it's all right
 
 268
 00:31:07,177 --> 00:31:09,168
-lt's not quite
+It's not quite
 
 269
 00:31:09,457 --> 00:31:11,209
@@ -1099,7 +1099,7 @@ You can do it up and down or round
 
 273
 00:31:29,097 --> 00:31:30,212
-lt's ready
+It's ready
 
 274
 00:31:32,137 --> 00:31:33,411
@@ -1160,7 +1160,7 @@ Yeh
 
 288
 00:32:51,697 --> 00:32:52,732
-lt's quite heavy
+It's quite heavy
 
 289
 00:33:01,097 --> 00:33:02,371
@@ -1204,7 +1204,7 @@ l'm going to see if it's all right
 
 299
 00:34:14,217 --> 00:34:15,286
-lt's not quite
+It's not quite
 
 300
 00:34:16,497 --> 00:34:18,408
@@ -1224,7 +1224,7 @@ You can do it up and down or round
 
 304
 00:34:36,377 --> 00:34:37,332
-lt's ready
+It's ready
 
 305
 00:34:39,377 --> 00:34:40,526

@@ -964,7 +964,7 @@ A bright yellow star
 
 241
 00:30:25,206 --> 00:30:27,356
-lt's a circle
+It's a circle
 with a hole in the middle
 
 242
@@ -1049,7 +1049,7 @@ A bright yellow star
 
 262
 00:33:13,246 --> 00:33:15,362
-lt's a circle
+It's a circle
 with a hole in the middle
 
 263
@@ -1592,7 +1592,7 @@ Ooooh...
 
 396
 00:47:23,329 --> 00:47:28,244
-lt's the Bear lt's the Bear
+It's the Bear It's the Bear
 and l'm coming
 
 397
