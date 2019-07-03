@@ -74,7 +74,7 @@ Oh What's that?
 
 18
 00:04:28,447 --> 00:04:29,926
-lt was a fountain
+It was a fountain
 
 19
 00:04:34,687 --> 00:04:35,836
@@ -91,7 +91,7 @@ Very pretty
 
 22
 00:04:54,847 --> 00:04:58,442
-lt made Laa-Laa want
+It made Laa-Laa want
 to sing a fountain song
 
 23
@@ -218,7 +218,7 @@ What's that?
 
 53
 00:25:14,327 --> 00:25:15,885
-lt was a carpet
+It was a carpet
 
 54
 00:25:18,807 --> 00:25:19,922
@@ -484,7 +484,7 @@ something appeared from far away
 
 117
 00:35:48,607 --> 00:35:53,556
-lt was a box
+It was a box
 but this was no ordinary box
 
 118
@@ -529,7 +529,7 @@ What's that?
 
 128
 00:37:40,287 --> 00:37:41,720
-lt was a box
+It was a box
 
 129
 00:37:44,327 --> 00:37:45,521
@@ -639,11 +639,11 @@ What's that?
 
 155
 00:40:37,727 --> 00:40:39,240
-lt was a box
+It was a box
 
 156
 00:40:41,247 --> 00:40:42,475
-lt box
+It box
 
 157
 00:40:44,327 --> 00:40:45,316
@@ -800,11 +800,11 @@ What's that?
 
 195
 00:44:22,447 --> 00:44:23,880
-lt was a box
+It was a box
 
 196
 00:44:27,647 --> 00:44:29,000
-lt box
+It box
 
 197
 00:44:30,767 --> 00:44:31,756
@@ -820,7 +820,7 @@ But this was no ordinary box
 
 200
 00:44:46,607 --> 00:44:49,644
-lt no ordinary box
+It no ordinary box
 
 201
 00:44:52,287 --> 00:44:54,642
@@ -988,7 +988,7 @@ Ohh what's that?
 
 241
 00:57:54,487 --> 00:57:56,239
-lt was a watering can
+It was a watering can
 
 242
 00:57:59,807 --> 00:58:01,365
@@ -1021,7 +1021,7 @@ What enormous flowers
 
 249
 00:58:54,927 --> 00:58:57,805
-lt must have been
+It must have been
 a magic watering can
 
 250
@@ -1257,7 +1257,7 @@ Oh what's that?
 
 306
 01:11:51,727 --> 01:11:53,957
-lt was a golden tree
+It was a golden tree
 
 307
 01:11:57,287 --> 01:11:59,562

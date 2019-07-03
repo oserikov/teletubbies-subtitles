@@ -535,7 +535,7 @@ something fell out of the sky
 
 131
 00:31:35,527 --> 00:31:37,836
-lt landed on Tinky Winky's head
+It landed on Tinky Winky's head
 
 132
 00:31:40,207 --> 00:31:41,401
@@ -551,7 +551,7 @@ What's that?
 
 135
 00:32:10,887 --> 00:32:12,320
-lt was a cloud
+It was a cloud
 
 136
 00:32:16,687 --> 00:32:17,915
@@ -559,7 +559,7 @@ Cloud
 
 137
 00:32:26,487 --> 00:32:29,047
-lt was Tinky Winky's special cloud
+It was Tinky Winky's special cloud
 
 138
 00:32:30,287 --> 00:32:33,438
@@ -892,7 +892,7 @@ What's that?
 
 217
 00:49:42,447 --> 00:49:44,165
-lt was a book
+It was a book
 Book
 
 218
@@ -1082,15 +1082,15 @@ stay indoors
 
 262
 00:59:26,607 --> 00:59:30,486
-lt rained and it rained and it rained
+It rained and it rained and it rained
 
 263
 00:59:31,527 --> 00:59:35,566
-lt rained and it rained and it rained
+It rained and it rained and it rained
 
 264
 00:59:42,207 --> 00:59:45,119
-And then lt stopped
+And then It stopped
 
 265
 01:00:00,767 --> 01:00:01,597
@@ -1145,7 +1145,7 @@ What's that?
 
 277
 01:01:13,007 --> 01:01:15,202
-lt was something very special
+It was something very special
 
 278
 01:01:16,727 --> 01:01:19,685
@@ -1153,7 +1153,7 @@ Something very special
 
 279
 01:01:25,287 --> 01:01:27,164
-lt was a rainbow
+It was a rainbow
 
 280
 01:01:30,367 --> 01:01:31,959

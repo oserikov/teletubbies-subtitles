@@ -241,7 +241,7 @@ looks like a big giant rainbow
 
 61
 00:08:51,607 --> 00:08:53,598
-lt is very very long
+It is very very long
 
 62
 00:08:56,007 --> 00:09:03,687
@@ -326,7 +326,7 @@ looks like a big giant rainbow
 
 82
 00:12:15,367 --> 00:12:17,597
-lt is very very long
+It is very very long
 
 83
 00:12:19,687 --> 00:12:26,081

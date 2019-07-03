@@ -389,7 +389,7 @@ Very heavy
 
 97
 00:12:52,007 --> 00:12:54,840
-lt is very heavy are you all right
+It is very heavy are you all right
 with it or shall l help you
 
 98
@@ -641,7 +641,7 @@ Very heavy
 
 159
 00:17:04,087 --> 00:17:06,885
-lt is very heavy are you all right
+It is very heavy are you all right
 with it or shall l help you
 
 160

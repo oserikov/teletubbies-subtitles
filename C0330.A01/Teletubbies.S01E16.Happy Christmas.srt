@@ -166,7 +166,7 @@ What's that?
 
 41
 00:05:34,687 --> 00:05:37,121
-lt was a Christmas tree
+It was a Christmas tree
 
 42
 00:05:38,527 --> 00:05:40,643
@@ -662,7 +662,7 @@ What's that?
 
 162
 00:37:06,847 --> 00:37:09,441
-lt was a little frosty cloud
+It was a little frosty cloud
 
 163
 00:37:09,847 --> 00:37:13,601
@@ -1158,7 +1158,7 @@ What's that?
 
 281
 00:58:48,167 --> 00:58:49,759
-lt was a star
+It was a star
 
 282
 00:58:50,887 --> 00:58:54,402

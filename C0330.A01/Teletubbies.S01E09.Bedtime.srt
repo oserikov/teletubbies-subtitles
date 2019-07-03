@@ -168,7 +168,7 @@ Oh what's that?
 
 40
 00:11:55,287 --> 00:11:56,481
-lt was a book
+It was a book
 
 41
 00:11:56,967 --> 00:11:58,559
@@ -540,7 +540,7 @@ Eh-oh
 
 129
 00:24:52,847 --> 00:24:55,805
-lt was Tinky Winky dancing
+It was Tinky Winky dancing
 on top of the house
 
 130

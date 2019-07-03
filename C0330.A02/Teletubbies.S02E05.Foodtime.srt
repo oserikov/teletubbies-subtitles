@@ -462,7 +462,7 @@ it was so heavy
 
 114
 00:09:37,887 --> 00:09:40,640
-lt was so heavy cos
+It was so heavy cos
 it was full of apples
 
 115
@@ -789,7 +789,7 @@ it was so heavy
 
 193
 00:14:36,007 --> 00:14:39,397
-lt was so heavy cos
+It was so heavy cos
 it was full of apples
 
 194
@@ -1534,7 +1534,7 @@ Yes yes
 
 378
 00:30:51,086 --> 00:30:53,441
-lt is time to wash salad now
+It is time to wash salad now
 
 379
 00:30:58,046 --> 00:31:00,241
@@ -1656,7 +1656,7 @@ Yes yes
 
 408
 00:33:45,366 --> 00:33:47,834
-lt is time to wash salad now
+It is time to wash salad now
 
 409
 00:33:52,406 --> 00:33:54,715

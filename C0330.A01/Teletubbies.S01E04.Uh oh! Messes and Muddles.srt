@@ -66,7 +66,7 @@ Oh dear what a mess!
 
 17
 00:03:44,167 --> 00:03:47,842
-lt was time for Tinky Winky
+It was time for Tinky Winky
 and Dipsy to have Tubby Custard
 
 18
@@ -111,7 +111,7 @@ Eh-oh
 
 28
 00:05:33,247 --> 00:05:36,478
-lt was time for Laa-Laa
+It was time for Laa-Laa
 and Po to have Tubby Toast
 
 29
@@ -264,7 +264,7 @@ What's that?
 
 65
 00:19:36,967 --> 00:19:38,525
-lt was a ball of string
+It was a ball of string
 
 66
 00:19:40,207 --> 00:19:42,004
@@ -373,7 +373,7 @@ Oh What's that?
 
 92
 00:22:51,127 --> 00:22:52,446
-lt was string
+It was string
 
 93
 00:22:54,407 --> 00:22:55,601
@@ -1008,7 +1008,7 @@ Ahhhhh
 
 245
 00:47:31,287 --> 00:47:33,243
-lt was time for Tubby Custard
+It was time for Tubby Custard
 
 246
 00:47:34,607 --> 00:47:36,916
