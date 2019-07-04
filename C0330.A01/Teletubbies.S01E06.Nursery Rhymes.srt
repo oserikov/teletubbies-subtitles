@@ -958,7 +958,7 @@ Little Miss Laa-Laa tubbety tubbet
 
 233
 00:37:25,687 --> 00:37:27,484
-Eating Tubby custard
+Eating Tubby Custard
 
 234
 00:37:28,007 --> 00:37:29,645
@@ -978,7 +978,7 @@ Little Miss Laa-Laa tubbety tubbet
 
 238
 00:37:46,207 --> 00:37:48,357
-Eating Tubby custard
+Eating Tubby Custard
 
 239
 00:37:49,647 --> 00:37:51,239
@@ -1019,7 +1019,7 @@ Eh-oh
 
 248
 00:38:53,447 --> 00:38:55,438
-Tubby custard! Tubby custard!
+Tubby Custard! Tubby Custard!
 
 249
 00:39:00,527 --> 00:39:02,677
@@ -1032,7 +1032,7 @@ Eating her curds and whey
 251
 00:39:09,607 --> 00:39:13,156
 Tinky Winky and Dipsy sat on a tubbet
-Eating Tubby custard
+Eating Tubby Custard
 
 252
 00:39:13,967 --> 00:39:15,002
@@ -1049,11 +1049,11 @@ Eating her curds and whey
 255
 00:39:21,487 --> 00:39:26,481
 Dipsy and Tinky Winky sat down
-on tubbet eating Tubby custard
+on tubbet eating Tubby Custard
 
 256
 00:39:26,727 --> 00:39:27,842
-Tubby custard
+Tubby Custard
 
 257
 00:39:28,367 --> 00:39:29,880
@@ -1114,7 +1114,7 @@ Little Miss Po sat on tubbet
 
 271
 00:40:45,567 --> 00:40:46,920
-Eating Tubby custard
+Eating Tubby Custard
 
 272
 00:40:47,807 --> 00:40:49,035
@@ -1134,7 +1134,7 @@ Little Miss Po sat on tubbet
 
 276
 00:41:01,207 --> 00:41:03,084
-Eating Tubby custard
+Eating Tubby Custard
 
 277
 00:41:03,927 --> 00:41:05,406
