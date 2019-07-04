@@ -549,7 +549,7 @@ Twinkle twinkle little star
 
 133
 00:23:27,047 --> 00:23:30,323
-how l wonder what you are
+how I wonder what you are
 
 134
 00:23:30,847 --> 00:23:34,442
@@ -565,7 +565,7 @@ Twinkle twinkle little star
 
 137
 00:23:42,367 --> 00:23:47,043
-how l wonder what you are
+how I wonder what you are
 
 138
 00:23:48,527 --> 00:23:49,801
@@ -577,7 +577,7 @@ Twinkle twinkle little star
 
 140
 00:23:54,087 --> 00:23:57,079
-how l wonder what you are
+how I wonder what you are
 
 141
 00:23:58,287 --> 00:24:00,721
@@ -593,7 +593,7 @@ Twinkle twinkle little star
 
 144
 00:24:09,327 --> 00:24:14,082
-how l wonder what you are
+how I wonder what you are
 
 145
 00:24:15,087 --> 00:24:15,997

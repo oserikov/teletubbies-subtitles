@@ -137,7 +137,7 @@ Not yet
 35
 00:05:46,407 --> 00:05:48,477
 why don't you come and sit down
-while l just finish what I'm doing
+while I just finish what I'm doing
 
 36
 00:05:49,647 --> 00:05:51,524
@@ -215,7 +215,7 @@ to see if they've got a poorly throat
 
 53
 00:06:51,967 --> 00:06:53,161
-Shall l show you what l do
+Shall I show you what I do
 
 54
 00:06:53,607 --> 00:06:54,801
@@ -235,7 +235,7 @@ And you tilt your head up.
 
 58
 00:06:59,727 --> 00:07:01,479
-And l can see right down
+And I can see right down
 and you say ahh
 
 59
@@ -261,7 +261,7 @@ to blow into this special machine
 
 64
 00:07:11,727 --> 00:07:12,364
-l can do that
+I can do that
 
 65
 00:07:12,527 --> 00:07:13,118
@@ -303,7 +303,7 @@ That's very good
 
 74
 00:07:33,327 --> 00:07:35,716
-l know mummy
+I know mummy
 give me a tum tum check
 
 75
@@ -316,7 +316,7 @@ That always makes me giggle.
 
 77
 00:07:43,367 --> 00:07:44,641
-Shall l listen to your chest first
+Shall I listen to your chest first
 
 78
 00:07:44,807 --> 00:07:45,205
@@ -392,12 +392,12 @@ And it tickles me
 
 95
 00:08:30,687 --> 00:08:32,996
-l think you're missing your
+I think you're missing your
 lacking your tea
 
 96
 00:08:33,127 --> 00:08:34,355
-l think you need your tea
+I think you need your tea
 
 97
 00:08:35,367 --> 00:08:36,482
@@ -417,11 +417,11 @@ Come on then let's get you down
 
 101
 00:08:41,647 --> 00:08:43,000
-l love my mummy
+I love my mummy
 
 102
 00:08:43,167 --> 00:08:45,727
-l love to seem my mummy
+I love to seem my mummy
 when she's a doctor
 
 103
@@ -467,7 +467,7 @@ Not yet
 113
 00:09:28,807 --> 00:09:30,320
 why don't you come and sit down
-while l just finish what I'm doing
+while I just finish what I'm doing
 
 114
 00:09:31,447 --> 00:09:33,119
@@ -545,7 +545,7 @@ to see if they've got a poorly throat
 
 131
 00:10:33,727 --> 00:10:34,955
-Shall l show you what l do
+Shall I show you what I do
 
 132
 00:10:35,287 --> 00:10:36,845
@@ -565,7 +565,7 @@ And you tilt your head up.
 
 136
 00:10:41,367 --> 00:10:43,483
-And l can see right down
+And I can see right down
 and you say ahh
 
 137
@@ -591,7 +591,7 @@ to blow into this special machine
 
 142
 00:10:53,247 --> 00:10:54,043
-l can do that
+I can do that
 
 143
 00:10:54,167 --> 00:10:54,644
@@ -633,7 +633,7 @@ That's very good
 
 152
 00:11:15,127 --> 00:11:17,561
-l know mummy
+I know mummy
 give me a tum tum check
 
 153
@@ -646,7 +646,7 @@ That always makes me giggle.
 
 155
 00:11:25,167 --> 00:11:26,361
-Shall l listen to your chest first
+Shall I listen to your chest first
 
 156
 00:11:26,567 --> 00:11:27,443
@@ -722,12 +722,12 @@ And it tickles me
 
 173
 00:12:12,607 --> 00:12:14,757
-l think you're missing your
+I think you're missing your
 lacking your tea
 
 174
 00:12:14,887 --> 00:12:16,081
-l think you need your tea
+I think you need your tea
 
 175
 00:12:16,527 --> 00:12:18,199
@@ -747,11 +747,11 @@ Come on then let's get you down
 
 179
 00:12:23,367 --> 00:12:24,561
-l love my mummy
+I love my mummy
 
 180
 00:12:24,767 --> 00:12:27,600
-l love to seem my mummy
+I love to seem my mummy
 when she's a doctor
 
 181
@@ -1253,7 +1253,7 @@ and when I'm grown up
 
 305
 00:29:42,774 --> 00:29:47,131
-l want to be a vet
+I want to be a vet
 which is an animal doctor
 
 306
@@ -1266,11 +1266,11 @@ hello, Olivia
 
 308
 00:30:06,734 --> 00:30:07,769
-what can l do for you today
+what can I do for you today
 
 309
 00:30:07,894 --> 00:30:09,213
-l want to see Michelle
+I want to see Michelle
 
 310
 00:30:09,454 --> 00:30:11,126
@@ -1356,7 +1356,7 @@ worried about coming out
 
 330
 00:31:04,054 --> 00:31:06,090
-OK. how can l help you
+OK. how can I help you
 today with Thumper
 
 331
@@ -1373,7 +1373,7 @@ has he been eating his food OK
 
 334
 00:31:10,694 --> 00:31:15,085
-Yes but l just want to see
+Yes but I just want to see
 if his teeth are too long
 
 335
@@ -1406,7 +1406,7 @@ hold tight now.
 341
 00:31:32,894 --> 00:31:35,124
 and I'll manage to
-open his mouth l think
+open his mouth I think
 
 342
 00:31:35,614 --> 00:31:37,889
@@ -1504,8 +1504,8 @@ Come on Thumper.
 
 364
 00:32:30,974 --> 00:32:34,091
-l haven't got a favourite
-on l like them all
+I haven't got a favourite
+on I like them all
 
 365
 00:32:35,174 --> 00:32:36,084
@@ -1513,7 +1513,7 @@ That's like me
 
 366
 00:32:36,214 --> 00:32:37,249
-l like them all as well
+I like them all as well
 
 367
 00:32:37,294 --> 00:32:38,932
@@ -1527,7 +1527,7 @@ so he doesn't come out
 
 369
 00:32:44,854 --> 00:32:46,287
-Right, will l help you out with him
+Right, will I help you out with him
 
 370
 00:32:47,734 --> 00:32:50,931
@@ -1564,7 +1564,7 @@ and when I'm grown up
 
 378
 00:33:17,054 --> 00:33:21,047
-l want to be a vet
+I want to be a vet
 which is an animal doctor
 
 379
@@ -1577,11 +1577,11 @@ hello, Olivia
 
 381
 00:33:40,814 --> 00:33:41,803
-what can l do for you today
+what can I do for you today
 
 382
 00:33:41,974 --> 00:33:43,327
-l want to see Michelle
+I want to see Michelle
 
 383
 00:33:43,534 --> 00:33:45,172
@@ -1667,7 +1667,7 @@ worried about coming out
 
 403
 00:34:38,054 --> 00:34:39,567
-OK. how can l help you
+OK. how can I help you
 today with Thumper
 
 404
@@ -1684,7 +1684,7 @@ has he been eating his food OK
 
 407
 00:34:44,774 --> 00:34:49,211
-Yes but l just want to see
+Yes but I just want to see
 if his teeth are too long
 
 408
@@ -1720,7 +1720,7 @@ hold tight now.
 415
 00:35:06,934 --> 00:35:09,004
 and I'll manage to
-open his mouth l think
+open his mouth I think
 
 416
 00:35:09,694 --> 00:35:11,969
@@ -1818,8 +1818,8 @@ Come on Thumper.
 
 438
 00:36:05,054 --> 00:36:08,490
-l haven't got a favourite
-on l like them all
+I haven't got a favourite
+on I like them all
 
 439
 00:36:08,614 --> 00:36:09,808
@@ -1827,7 +1827,7 @@ That's like me
 
 440
 00:36:10,014 --> 00:36:11,003
-l like them all as well
+I like them all as well
 
 441
 00:36:11,414 --> 00:36:13,132
@@ -1841,7 +1841,7 @@ so he doesn't come out
 
 443
 00:36:17,094 --> 00:36:19,608
-Right, will l help you out with him
+Right, will I help you out with him
 
 444
 00:36:21,934 --> 00:36:24,846

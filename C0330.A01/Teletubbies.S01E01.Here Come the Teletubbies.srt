@@ -252,7 +252,7 @@ hello hello
 
 64
 00:08:32,407 --> 00:08:33,556
-l am Joseph
+I am Joseph
 
 65
 00:08:33,847 --> 00:08:35,280
@@ -272,7 +272,7 @@ Oh no we're going to get soaked
 
 69
 00:08:51,847 --> 00:08:54,566
-l like the rain because every time
+I like the rain because every time
 
 70
 00:08:54,847 --> 00:08:55,916
@@ -280,11 +280,11 @@ it's raining
 
 71
 00:08:56,447 --> 00:08:59,883
-l watch out the window
+I watch out the window
 
 72
 00:09:15,487 --> 00:09:17,478
-l can't wait to go out
+I can't wait to go out
 there to get wet
 
 73
@@ -302,7 +302,7 @@ Yeah
 
 76
 00:09:36,127 --> 00:09:37,685
-l need some help
+I need some help
 
 77
 00:09:42,887 --> 00:09:44,206
@@ -318,7 +318,7 @@ you've got to make it really click
 
 80
 00:09:52,087 --> 00:09:54,078
-l can't wait to get wet
+I can't wait to get wet
 
 81
 00:09:55,127 --> 00:09:57,357
@@ -1567,7 +1567,7 @@ Jezza
 390
 00:53:50,887 --> 00:53:53,082
 Where's the ball gone
-l don't know
+I don't know
 
 391
 00:53:54,047 --> 00:53:55,036

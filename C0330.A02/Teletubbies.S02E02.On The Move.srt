@@ -160,11 +160,11 @@ We're going on a train
 
 41
 00:06:10,967 --> 00:06:12,320
-Good morning, can l help you
+Good morning, can I help you
 
 42
 00:06:12,487 --> 00:06:17,038
-Please can l have three tickets
+Please can I have three tickets
 to Glasgow central
 
 43
@@ -257,7 +257,7 @@ you can see the shops
 
 65
 00:07:53,207 --> 00:07:54,925
-l see
+I see
 
 66
 00:07:55,447 --> 00:07:57,005
@@ -301,7 +301,7 @@ We're going over a bridge. . . .
 
 76
 00:08:30,487 --> 00:08:32,478
-l like going over bridges
+I like going over bridges
 
 77
 00:08:33,367 --> 00:08:36,200
@@ -398,11 +398,11 @@ We're going on a train
 
 100
 00:10:30,887 --> 00:10:32,002
-Good morning, can l help you
+Good morning, can I help you
 
 101
 00:10:32,127 --> 00:10:36,996
-Please can l have three tickets
+Please can I have three tickets
 to Glasgow central
 
 102
@@ -495,7 +495,7 @@ you can see the shops
 
 124
 00:12:13,367 --> 00:12:14,197
-l see
+I see
 
 125
 00:12:15,007 --> 00:12:15,917
@@ -539,7 +539,7 @@ We're going over a bridge. . . .
 
 135
 00:12:50,167 --> 00:12:52,283
-l like going over bridges
+I like going over bridges
 
 136
 00:12:53,207 --> 00:12:55,960
@@ -1179,7 +1179,7 @@ lce skating.
 
 294
 00:35:10,518 --> 00:35:15,308
-My name is Natalie. l love skating
+My name is Natalie. I love skating
 
 295
 00:35:28,958 --> 00:35:31,472
@@ -1191,11 +1191,11 @@ My name is Shauna
 
 297
 00:36:01,398 --> 00:36:03,514
-l just started to skate
+I just started to skate
 
 298
 00:36:04,358 --> 00:36:07,794
-Sometimes l fall over
+Sometimes I fall over
 but it doesn't hurt
 
 299
@@ -1208,15 +1208,15 @@ Shauna skates very carefully
 
 301
 00:36:28,678 --> 00:36:31,636
-l like skating backwards with Shauna
+I like skating backwards with Shauna
 
 302
 00:36:31,878 --> 00:36:34,073
-l like skating with Laura.
+I like skating with Laura.
 
 303
 00:36:43,198 --> 00:36:45,348
-l like skating holding hands
+I like skating holding hands
 
 304
 00:37:00,518 --> 00:37:03,669
@@ -1252,7 +1252,7 @@ My name is Amy
 
 312
 00:37:53,998 --> 00:37:56,637
-l like dancing on the ice
+I like dancing on the ice
 
 313
 00:38:01,158 --> 00:38:03,752
@@ -1264,7 +1264,7 @@ I'm the fastest skater
 
 315
 00:38:19,158 --> 00:38:22,116
-l like skating really fast
+I like skating really fast
 
 316
 00:38:37,278 --> 00:38:41,988
@@ -1288,7 +1288,7 @@ lce skating.
 
 321
 00:38:58,358 --> 00:39:02,954
-My name is Natalie. l love skating
+My name is Natalie. I love skating
 
 322
 00:39:16,758 --> 00:39:19,431
@@ -1300,11 +1300,11 @@ My name is Shauna
 
 324
 00:39:49,238 --> 00:39:51,354
-l just started to skate
+I just started to skate
 
 325
 00:39:52,038 --> 00:39:55,348
-Sometimes l fall over
+Sometimes I fall over
 but it doesn't hurt
 
 326
@@ -1317,15 +1317,15 @@ Shauna skates very carefully
 
 328
 00:40:16,358 --> 00:40:19,430
-l like skating backwards with Shauna
+I like skating backwards with Shauna
 
 329
 00:40:19,718 --> 00:40:21,913
-l like skating with Laura.
+I like skating with Laura.
 
 330
 00:40:30,998 --> 00:40:32,954
-l like skating holding hands
+I like skating holding hands
 
 331
 00:40:48,438 --> 00:40:51,157
@@ -1361,7 +1361,7 @@ My name is Amy
 
 339
 00:41:41,758 --> 00:41:44,033
-l like dancing on the ice
+I like dancing on the ice
 
 340
 00:41:48,878 --> 00:41:51,438
@@ -1373,7 +1373,7 @@ I'm the fastest skater
 
 342
 00:42:06,958 --> 00:42:09,711
-l like skating really fast
+I like skating really fast
 
 343
 00:42:24,998 --> 00:42:32,916

@@ -236,7 +236,7 @@ ln here
 
 60
 00:07:27,767 --> 00:07:31,521
-Toilet in here l need a wee
+Toilet in here I need a wee
 
 61
 00:07:35,567 --> 00:07:37,876
@@ -248,7 +248,7 @@ This and this and this my bed
 
 63
 00:07:43,447 --> 00:07:46,200
-l sleep in this bed
+I sleep in this bed
 
 64
 00:07:48,287 --> 00:07:50,323
@@ -360,7 +360,7 @@ ln here
 
 91
 00:10:47,207 --> 00:10:50,404
-Toilet in here l need a wee
+Toilet in here I need a wee
 
 92
 00:10:54,687 --> 00:10:56,678
@@ -372,7 +372,7 @@ This and this and this my bed
 
 94
 00:11:02,487 --> 00:11:05,126
-l sleep in this bed
+I sleep in this bed
 
 95
 00:11:07,407 --> 00:11:09,637
@@ -824,7 +824,7 @@ That's my Mummy
 
 207
 00:29:33,326 --> 00:29:34,918
-This is where l live...
+This is where I live...
 
 208
 00:29:35,566 --> 00:29:37,522
@@ -836,11 +836,11 @@ This is my playground
 
 210
 00:29:47,126 --> 00:29:49,276
-This is where l play
+This is where I play
 
 211
 00:29:56,206 --> 00:29:57,559
-Concierge - can l help you?
+Concierge - can I help you?
 
 212
 00:29:57,726 --> 00:30:02,754
@@ -885,7 +885,7 @@ are you going to press the button?
 
 222
 00:30:17,366 --> 00:30:19,675
-Please could l press the button
+Please could I press the button
 
 223
 00:30:19,766 --> 00:30:20,004
@@ -1034,7 +1034,7 @@ We're very high up in the sky Mummy
 
 259
 00:31:51,766 --> 00:31:54,678
-l can see lots of things
+I can see lots of things
 out of the window?
 
 260
@@ -1043,11 +1043,11 @@ What can you see?
 
 261
 00:31:56,606 --> 00:31:59,518
-l can see birds in the sky
+I can see birds in the sky
 
 262
 00:32:01,686 --> 00:32:03,961
-l can see a bird!
+I can see a bird!
 
 263
 00:32:12,126 --> 00:32:14,321
@@ -1055,7 +1055,7 @@ Another block of flats
 
 264
 00:32:15,886 --> 00:32:18,400
-l see her from the window
+I see her from the window
 at the flats?
 
 265
@@ -1104,7 +1104,7 @@ Look at the clouds Mummy
 
 276
 00:32:52,646 --> 00:32:55,604
-l like living in a flat
+I like living in a flat
 
 277
 00:33:09,246 --> 00:33:10,156
@@ -1144,7 +1144,7 @@ That's my Mummy
 
 286
 00:33:46,686 --> 00:33:48,483
-This is where l live...
+This is where I live...
 
 287
 00:33:48,886 --> 00:33:51,002
@@ -1156,11 +1156,11 @@ This is my playground
 
 289
 00:34:00,566 --> 00:34:02,557
-This is where l play
+This is where I play
 
 290
 00:34:09,566 --> 00:34:10,885
-Concierge - can l help you?
+Concierge - can I help you?
 
 291
 00:34:11,126 --> 00:34:15,483
@@ -1205,7 +1205,7 @@ are you going to press the button?
 
 301
 00:34:30,926 --> 00:34:32,678
-Please could l press the button
+Please could I press the button
 
 302
 00:34:33,006 --> 00:34:33,404
@@ -1354,7 +1354,7 @@ We're very high up in the sky Mummy
 
 338
 00:36:05,166 --> 00:36:08,044
-l can see lots of things
+I can see lots of things
 out of the window?
 
 339
@@ -1363,11 +1363,11 @@ What can you see?
 
 340
 00:36:09,966 --> 00:36:12,799
-l can see birds in the sky
+I can see birds in the sky
 
 341
 00:36:15,006 --> 00:36:17,395
-l can see a bird!
+I can see a bird!
 
 342
 00:36:25,446 --> 00:36:27,880
@@ -1375,7 +1375,7 @@ Another block of flats
 
 343
 00:36:28,886 --> 00:36:31,764
-l see her from the window
+I see her from the window
 at the flats?
 
 344
@@ -1424,7 +1424,7 @@ Look at the clouds Mummy
 
 355
 00:37:06,086 --> 00:37:09,203
-l like living in a flat
+I like living in a flat
 
 356
 00:37:22,846 --> 00:37:23,517

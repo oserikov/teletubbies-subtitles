@@ -390,11 +390,11 @@ and makes us dinner
 
 97
 00:08:26,807 --> 00:08:28,286
-Come and see what l found
+Come and see what I found
 
 98
 00:08:28,487 --> 00:08:30,125
-l found a pumpkin
+I found a pumpkin
 
 99
 00:08:30,647 --> 00:08:32,126
@@ -406,7 +406,7 @@ This is a small pumpkin
 
 101
 00:08:36,687 --> 00:08:40,077
-Then l picked some big pumpkins
+Then I picked some big pumpkins
 
 102
 00:08:40,727 --> 00:08:43,321
@@ -418,7 +418,7 @@ And I'm going to put them in this box
 
 104
 00:08:50,727 --> 00:08:56,757
-And l was going to drop them in it
+And I was going to drop them in it
 . . . put them in carefully
 
 105
@@ -452,7 +452,7 @@ They were hard to carry
 
 112
 00:09:19,967 --> 00:09:23,323
-l put them very carefully
+I put them very carefully
 in the pumpkin box
 
 113
@@ -475,11 +475,11 @@ we carried everything on to the patio
 
 117
 00:09:48,087 --> 00:09:49,759
-l sorted everything out
+I sorted everything out
 
 118
 00:09:51,207 --> 00:09:53,562
-l sorted it all out
+I sorted it all out
 
 119
 00:09:58,607 --> 00:09:59,756
@@ -519,7 +519,7 @@ The tomatoes tasted lovely
 
 128
 00:10:31,767 --> 00:10:34,042
-l love working in nanny's garden
+I love working in nanny's garden
 
 129
 00:10:34,247 --> 00:10:34,963
@@ -717,11 +717,11 @@ and makes us dinner
 
 176
 00:13:24,847 --> 00:13:26,485
-Come and see what l found
+Come and see what I found
 
 177
 00:13:26,687 --> 00:13:28,564
-l found a pumpkin
+I found a pumpkin
 
 178
 00:13:28,927 --> 00:13:30,645
@@ -733,7 +733,7 @@ This is a small pumpkin
 
 180
 00:13:34,727 --> 00:13:38,606
-Then l picked some big pumpkins
+Then I picked some big pumpkins
 
 181
 00:13:38,807 --> 00:13:42,117
@@ -745,7 +745,7 @@ And I'm going to put them in this box
 
 183
 00:13:48,847 --> 00:13:54,797
-And l was going to drop them in it
+And I was going to drop them in it
 . . . put them in carefully
 
 184
@@ -779,7 +779,7 @@ They were hard to carry
 
 191
 00:14:18,047 --> 00:14:21,562
-l put them very carefully
+I put them very carefully
 in the pumpkin box
 
 192
@@ -802,11 +802,11 @@ we carried everything on to the patio
 
 196
 00:14:46,167 --> 00:14:48,397
-l sorted everything out
+I sorted everything out
 
 197
 00:14:49,327 --> 00:14:51,761
-l sorted it all out
+I sorted it all out
 
 198
 00:14:56,527 --> 00:14:58,358
@@ -846,7 +846,7 @@ The tomatoes tasted lovely
 
 207
 00:15:29,847 --> 00:15:31,963
-l love working in nanny's garden
+I love working in nanny's garden
 
 208
 00:15:32,087 --> 00:15:33,918
@@ -1501,7 +1501,7 @@ Cucumber
 
 370
 00:30:27,606 --> 00:30:30,882
-l can see lots of different vegetables
+I can see lots of different vegetables
 
 371
 00:30:33,726 --> 00:30:34,761
@@ -1538,7 +1538,7 @@ It is time to wash salad now
 
 379
 00:30:58,046 --> 00:31:00,241
-l am washing the salad in the sink
+I am washing the salad in the sink
 
 380
 00:31:19,326 --> 00:31:25,276
@@ -1575,7 +1575,7 @@ This is nice
 
 388
 00:32:16,166 --> 00:32:19,044
-l love tomatoes
+I love tomatoes
 
 389
 00:32:21,366 --> 00:32:28,681
@@ -1623,7 +1623,7 @@ Cucumber
 
 400
 00:33:21,806 --> 00:33:25,321
-l can see lots of different vegetables
+I can see lots of different vegetables
 
 401
 00:33:28,046 --> 00:33:28,956
@@ -1660,7 +1660,7 @@ It is time to wash salad now
 
 409
 00:33:52,406 --> 00:33:54,715
-l am washing the salad in the sink
+I am washing the salad in the sink
 
 410
 00:34:13,606 --> 00:34:19,283
@@ -1694,7 +1694,7 @@ This is nice
 
 417
 00:35:10,326 --> 00:35:12,840
-l love tomatoes
+I love tomatoes
 
 418
 00:35:15,606 --> 00:35:22,682

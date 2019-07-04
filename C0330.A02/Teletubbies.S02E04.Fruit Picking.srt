@@ -146,7 +146,7 @@ and lots of strawberries
 
 37
 00:06:48,407 --> 00:06:50,398
-l want to eat one
+I want to eat one
 
 38
 00:06:51,767 --> 00:06:53,723
@@ -154,7 +154,7 @@ Who's that?
 
 39
 00:06:56,207 --> 00:07:00,166
-l want that strawberry.
+I want that strawberry.
 
 40
 00:07:13,967 --> 00:07:16,765
@@ -183,7 +183,7 @@ Do you want cream
 
 46
 00:08:31,487 --> 00:08:35,116
-l really love strawberries
+I really love strawberries
 
 47
 00:08:46,727 --> 00:08:48,319
@@ -241,7 +241,7 @@ and lots of strawberries
 
 60
 00:10:47,767 --> 00:10:49,280
-l want to eat one
+I want to eat one
 
 61
 00:10:56,567 --> 00:10:56,919
@@ -249,7 +249,7 @@ Who's that?
 
 62
 00:10:57,567 --> 00:10:58,317
-l want that strawberry.
+I want that strawberry.
 
 63
 00:11:23,247 --> 00:11:24,680
@@ -278,7 +278,7 @@ Do you want cream
 
 69
 00:12:40,847 --> 00:12:44,044
-l really love strawberries
+I really love strawberries
 
 70
 00:12:56,207 --> 00:13:01,520
@@ -351,7 +351,7 @@ Oh
 
 87
 00:15:55,207 --> 00:15:56,799
-l wonder what's inside the present
+I wonder what's inside the present
 
 88
 00:15:59,407 --> 00:16:00,556
@@ -359,7 +359,7 @@ Oh
 
 89
 00:16:01,407 --> 00:16:06,117
-l wonder what's inside the present
+I wonder what's inside the present
 
 90
 00:16:18,687 --> 00:16:19,676
@@ -384,11 +384,11 @@ A present, a present
 
 95
 00:16:49,247 --> 00:16:50,999
-l wonder who the present is for
+I wonder who the present is for
 
 96
 00:16:51,767 --> 00:16:59,720
-Oh! l wonder who the present is for
+Oh! I wonder who the present is for
 
 97
 00:17:00,567 --> 00:17:02,319
@@ -983,7 +983,7 @@ Yes
 
 244
 00:31:56,833 --> 00:31:58,107
-l peel the skin
+I peel the skin
 
 245
 00:32:00,593 --> 00:32:02,311
@@ -1162,7 +1162,7 @@ Yes
 
 288
 00:35:25,593 --> 00:35:26,992
-l peel the skin
+I peel the skin
 
 289
 00:35:29,273 --> 00:35:30,308

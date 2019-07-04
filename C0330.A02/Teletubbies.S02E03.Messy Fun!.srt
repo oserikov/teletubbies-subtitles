@@ -112,7 +112,7 @@ Tubby custard, yay
 
 29
 00:05:22,767 --> 00:05:24,086
-l like Tubby custard
+I like Tubby custard
 
 30
 00:05:36,047 --> 00:05:37,082
@@ -251,7 +251,7 @@ You help me to carry the fork
 
 63
 00:10:40,287 --> 00:10:41,356
-l can do it
+I can do it
 
 64
 00:10:41,967 --> 00:10:43,878
@@ -259,7 +259,7 @@ I'm having it on my own
 
 65
 00:10:44,647 --> 00:10:46,842
-l can
+I can
 
 66
 00:10:54,327 --> 00:10:55,726
@@ -324,7 +324,7 @@ Digging tatos
 
 81
 00:11:47,207 --> 00:11:49,846
-l wonder whether there
+I wonder whether there
 will be any underneat
 
 82
@@ -390,7 +390,7 @@ Very heavy
 97
 00:12:52,007 --> 00:12:54,840
 It is very heavy are you all right
-with it or shall l help you
+with it or shall I help you
 
 98
 00:12:55,967 --> 00:12:56,843
@@ -503,7 +503,7 @@ You help me to carry the fork
 
 125
 00:14:52,727 --> 00:14:53,477
-l can do it
+I can do it
 
 126
 00:14:53,887 --> 00:14:56,401
@@ -511,7 +511,7 @@ I'm having it on my own
 
 127
 00:14:56,607 --> 00:14:58,040
-l can
+I can
 
 128
 00:15:06,167 --> 00:15:07,646
@@ -576,7 +576,7 @@ Digging tatos
 
 143
 00:15:59,207 --> 00:16:00,720
-l wonder whether there
+I wonder whether there
 will be any underneat
 
 144
@@ -642,7 +642,7 @@ Very heavy
 159
 00:17:04,087 --> 00:17:06,885
 It is very heavy are you all right
-with it or shall l help you
+with it or shall I help you
 
 160
 00:17:07,887 --> 00:17:08,683
@@ -1039,11 +1039,11 @@ It's quite heavy
 
 258
 00:29:54,057 --> 00:29:55,206
-l get it off
+I get it off
 
 259
 00:29:55,737 --> 00:29:58,251
-l get some chocolate
+I get some chocolate
 
 260
 00:29:58,857 --> 00:30:01,815
@@ -1055,7 +1055,7 @@ lnto the jug.
 
 262
 00:30:14,377 --> 00:30:16,891
-The milk. Now l stir it
+The milk. Now I stir it
 
 263
 00:30:19,217 --> 00:30:20,411
@@ -1067,7 +1067,7 @@ Nice big bubble
 
 265
 00:30:41,137 --> 00:30:42,729
-l think that's nice
+I think that's nice
 
 266
 00:30:48,697 --> 00:30:51,609
@@ -1164,11 +1164,11 @@ It's quite heavy
 
 289
 00:33:01,097 --> 00:33:02,371
-l get it off
+I get it off
 
 290
 00:33:02,817 --> 00:33:04,967
-l get some chocolate
+I get some chocolate
 
 291
 00:33:06,257 --> 00:33:08,896
@@ -1180,7 +1180,7 @@ lnto the jug.
 
 293
 00:33:21,537 --> 00:33:23,971
-The milk. Now l stir it
+The milk. Now I stir it
 
 294
 00:33:26,177 --> 00:33:26,973
@@ -1192,7 +1192,7 @@ Nice big bubble
 
 296
 00:33:48,297 --> 00:33:49,650
-l think that's nice
+I think that's nice
 
 297
 00:33:55,777 --> 00:33:58,689
