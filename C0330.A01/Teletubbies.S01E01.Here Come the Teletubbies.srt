@@ -92,7 +92,7 @@ Where have the Teletubbies gone
 
 24
 00:03:00,127 --> 00:03:03,244
-E oh One day in Teletubbie Land
+E oh One day in Teletubbyland
 
 25
 00:03:04,087 --> 00:03:04,917
@@ -362,7 +362,7 @@ Bye
 
 91
 00:12:41,727 --> 00:12:43,365
-One day in Teletubbie Land
+One day in Teletubbyland
 
 92
 00:12:43,807 --> 00:12:45,160
@@ -478,7 +478,7 @@ E oh
 
 120
 00:19:11,847 --> 00:19:13,280
-One day in Teletubbie Land
+One day in Teletubbyland
 
 121
 00:19:13,647 --> 00:19:15,000
@@ -757,7 +757,7 @@ Oh
 
 189
 00:27:48,407 --> 00:27:50,079
-One day in Teletubbie Land
+One day in Teletubbyland
 
 190
 00:27:50,847 --> 00:27:53,122
@@ -857,7 +857,7 @@ Uh oh
 
 214
 00:31:26,487 --> 00:31:27,920
-One day in Teletubbie Land
+One day in Teletubbyland
 
 215
 00:31:28,647 --> 00:31:32,526
@@ -1090,7 +1090,7 @@ Po
 
 271
 00:37:20,647 --> 00:37:22,922
-One day in Teletubbie Land
+One day in Teletubbyland
 
 272
 00:37:23,207 --> 00:37:24,720
@@ -1130,7 +1130,7 @@ Lovely water lovely water
 
 281
 00:38:37,407 --> 00:38:39,284
-One day in Teletubbie Land
+One day in Teletubbyland
 
 282
 00:38:39,567 --> 00:38:41,842
@@ -1142,7 +1142,7 @@ Oooh
 
 284
 00:38:51,327 --> 00:38:53,602
-One day in the Teletubbie Land
+One day in the Teletubbyland
 
 285
 00:38:53,767 --> 00:38:57,476
@@ -1190,7 +1190,7 @@ E oh
 
 296
 00:40:59,407 --> 00:41:01,284
-One day in Teletubbie Land
+One day in Teletubbyland
 
 297
 00:41:01,607 --> 00:41:02,801
@@ -1595,7 +1595,7 @@ Bye bye
 
 397
 00:55:13,207 --> 00:55:15,004
-One day in Teletubbie Land
+One day in Teletubbyland
 
 398
 00:55:15,687 --> 00:55:20,238
