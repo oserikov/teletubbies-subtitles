@@ -52,7 +52,7 @@ Dipsy Dipsy
 
 14
 00:01:28,367 --> 00:01:29,925
-Laa Laa Laa Laa
+Laa-Laa Laa-Laa
 
 15
 00:01:30,207 --> 00:01:31,799
@@ -72,7 +72,7 @@ Tinky Winky Dipsy
 
 19
 00:01:45,567 --> 00:01:48,365
-Laa Laa Po
+Laa-Laa Po
 
 20
 00:01:49,447 --> 00:01:52,723
@@ -236,7 +236,7 @@ Dipsy
 
 60
 00:08:11,647 --> 00:08:12,636
-Laa Laa
+Laa-Laa
 
 61
 00:08:14,127 --> 00:08:15,116
@@ -414,11 +414,11 @@ Uh oh
 
 104
 00:14:19,927 --> 00:14:21,280
-Mind the puddle Laa Laa
+Mind the puddle Laa-Laa
 
 105
 00:14:21,647 --> 00:14:24,764
-Mind the puddle Laa Laa
+Mind the puddle Laa-Laa
 
 106
 00:14:35,927 --> 00:14:41,320
@@ -528,11 +528,11 @@ hat in bag
 132
 00:21:07,407 --> 00:21:10,444
 A little further on
-Tinky Winky saw Laa Laa's ball
+Tinky Winky saw Laa-Laa's ball
 
 133
 00:21:11,407 --> 00:21:13,398
-Laa Laa's ball
+Laa-Laa's ball
 
 134
 00:21:13,647 --> 00:21:15,638
@@ -624,11 +624,11 @@ What's in the bag Tinky Winky
 
 156
 00:23:47,607 --> 00:23:48,926
-Laa Laa's ball
+Laa-Laa's ball
 
 157
 00:23:49,807 --> 00:23:50,603
-Laa Laa's ball
+Laa-Laa's ball
 
 158
 00:23:51,647 --> 00:23:52,477
@@ -793,7 +793,7 @@ Oh dear
 
 198
 00:29:15,967 --> 00:29:17,286
-Po Laa Laa
+Po Laa-Laa
 
 199
 00:29:20,327 --> 00:29:21,919
@@ -821,7 +821,7 @@ And Tinky Winky fell over
 
 205
 00:30:14,767 --> 00:30:15,995
-Laa Laa came to help
+Laa-Laa came to help
 
 206
 00:30:22,127 --> 00:30:24,641
@@ -829,7 +829,7 @@ E oh Whoops
 
 207
 00:30:26,167 --> 00:30:27,395
-And Laa Laa fell over
+And Laa-Laa fell over
 
 208
 00:30:37,287 --> 00:30:38,436
@@ -965,11 +965,11 @@ Over the hills
 
 240
 00:34:04,887 --> 00:34:07,720
-To the place where Laa Laa was dancing
+To the place where Laa-Laa was dancing
 
 241
 00:34:13,487 --> 00:34:15,045
-E oh Laa Laa
+E oh Laa-Laa
 
 242
 00:34:15,887 --> 00:34:18,242
@@ -977,7 +977,7 @@ E oh Dipsy e oh Tinky Winky
 
 243
 00:34:18,487 --> 00:34:19,681
-Was it Laa Laa
+Was it Laa-Laa
 
 244
 00:34:19,847 --> 00:34:21,644
@@ -985,7 +985,7 @@ who spilled the Tubbie custard
 
 245
 00:34:25,207 --> 00:34:27,926
-Laa Laa pilled the Tubbie custard
+Laa-Laa pilled the Tubbie custard
 
 246
 00:34:30,007 --> 00:34:31,599
@@ -1018,7 +1018,7 @@ Who pilled the Tubbie custard
 
 253
 00:35:12,807 --> 00:35:15,321
-Tinky Winky Dipsy and Laa Laa
+Tinky Winky Dipsy and Laa-Laa
 
 254
 00:35:15,527 --> 00:35:17,916
@@ -1134,7 +1134,7 @@ One day in Teletubbie Land
 
 282
 00:38:39,567 --> 00:38:41,842
-Laa Laa found a watering can
+Laa-Laa found a watering can
 
 283
 00:38:43,247 --> 00:38:45,886
@@ -1146,7 +1146,7 @@ One day in the Teletubbie Land
 
 285
 00:38:53,767 --> 00:38:57,476
-Laa Laa found a watering can
+Laa-Laa found a watering can
 
 286
 00:39:11,887 --> 00:39:14,879
@@ -1194,7 +1194,7 @@ One day in Teletubbie Land
 
 297
 00:41:01,607 --> 00:41:02,801
-Laa Laa felt like having
+Laa-Laa felt like having
 
 298
 00:41:02,927 --> 00:41:04,280
@@ -1202,7 +1202,7 @@ some Tubbie toast
 
 299
 00:41:05,207 --> 00:41:07,596
-Yeah Laa Laa feel like habing
+Yeah Laa-Laa feel like habing
 
 300
 00:41:07,727 --> 00:41:11,197
@@ -1238,7 +1238,7 @@ Yeah Tubbie toast
 
 308
 00:41:52,647 --> 00:41:55,207
-Laa Laa smelled her Tubbie toast
+Laa-Laa smelled her Tubbie toast
 
 309
 00:41:57,887 --> 00:41:59,957
@@ -1286,7 +1286,7 @@ and have some Tubbie toast as well
 
 320
 00:42:40,287 --> 00:42:41,606
-E oh Laa Laa
+E oh Laa-Laa
 
 321
 00:42:41,847 --> 00:42:44,600
@@ -1458,11 +1458,11 @@ And lots of Tubbie toast
 
 363
 00:48:38,407 --> 00:48:39,396
-for Laa Laa
+for Laa-Laa
 
 364
 00:48:42,607 --> 00:48:44,643
-Lots of de Tubbie toast for Laa Laa
+Lots of de Tubbie toast for Laa-Laa
 
 365
 00:48:46,247 --> 00:48:48,283
@@ -1518,7 +1518,7 @@ Dipsy
 
 378
 00:50:29,847 --> 00:50:30,996
-Laa Laa
+Laa-Laa
 
 379
 00:50:32,207 --> 00:50:33,242
@@ -1689,7 +1689,7 @@ Dipsy's hat Oh Dipsy's hat
 
 420
 00:57:29,407 --> 00:57:30,283
-Laa Laa came out
+Laa-Laa came out
 
 421
 00:57:30,527 --> 00:57:31,846
@@ -1709,7 +1709,7 @@ E oh Tinky Winky
 
 425
 00:57:50,007 --> 00:57:51,076
-E oh Laa Laa
+E oh Laa-Laa
 
 426
 00:57:54,567 --> 00:57:56,876
@@ -1717,7 +1717,7 @@ Look Dipsy's hat
 
 427
 00:58:00,447 --> 00:58:01,880
-Laa Laa went to find Dipsy
+Laa-Laa went to find Dipsy
 
 428
 00:58:02,367 --> 00:58:04,642
@@ -1797,7 +1797,7 @@ Bye bye
 
 447
 01:00:01,447 --> 01:00:02,436
-Bye bye Laa Laa
+Bye bye Laa-Laa
 
 448
 01:00:02,927 --> 01:00:03,723
@@ -1841,7 +1841,7 @@ Bye bye
 
 458
 01:00:36,327 --> 01:00:37,282
-Bye bye Laa Laa
+Bye bye Laa-Laa
 
 459
 01:00:37,847 --> 01:00:38,677

@@ -97,7 +97,7 @@ Eh oh
 
 24
 00:04:20,967 --> 00:04:22,161
-Laa Laa heard it
+Laa-Laa heard it
 
 25
 00:04:26,927 --> 00:04:27,996
@@ -203,15 +203,15 @@ One, two, three, four presents!
 
 50
 00:07:15,527 --> 00:07:16,880
-One present for Laa Laa
+One present for Laa-Laa
 
 51
 00:07:18,087 --> 00:07:20,237
-Present for Laa Laa
+Present for Laa-Laa
 
 52
 00:07:30,367 --> 00:07:34,838
-Ohh the present for Laa Laa
+Ohh the present for Laa-Laa
 
 53
 00:07:38,327 --> 00:07:39,726
@@ -306,11 +306,11 @@ Eh oh
 75
 00:19:12,647 --> 00:19:16,481
 One day in Teletubbyland
-Laa Laa had a present
+Laa-Laa had a present
 
 76
 00:19:23,927 --> 00:19:25,963
-Laa Laa present
+Laa-Laa present
 
 77
 00:19:33,327 --> 00:19:35,761
@@ -346,7 +346,7 @@ Eh oh
 
 85
 00:21:25,767 --> 00:21:27,758
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 86
 00:21:27,967 --> 00:21:29,195
@@ -354,7 +354,7 @@ Eh oh, Po
 
 87
 00:21:29,727 --> 00:21:32,764
-Laa Laa present
+Laa-Laa present
 
 88
 00:21:37,367 --> 00:21:39,244
@@ -362,19 +362,19 @@ Ohh
 
 89
 00:21:49,647 --> 00:21:51,603
-Present! Laa Laa
+Present! Laa-Laa
 
 90
 00:22:09,967 --> 00:22:11,320
-Laa Laa present
+Laa-Laa present
 
 91
 00:22:13,647 --> 00:22:16,207
-Laa Laa decided to open her present
+Laa-Laa decided to open her present
 
 92
 00:22:17,407 --> 00:22:22,276
-Ohh, Laa Laa open the present
+Ohh, Laa-Laa open the present
 
 93
 00:22:52,007 --> 00:22:56,000
@@ -394,12 +394,12 @@ Decorations
 
 97
 00:23:42,287 --> 00:23:45,085
-Laa Laa was very pleased
+Laa-Laa was very pleased
 with her present
 
 98
 00:23:47,807 --> 00:23:50,241
-Laa Laa very pleased with present
+Laa-Laa very pleased with present
 
 99
 00:23:51,007 --> 00:23:53,885
@@ -440,7 +440,7 @@ Eh oh, Tinky Winky
 
 108
 00:24:38,327 --> 00:24:39,965
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 109
 00:24:40,287 --> 00:24:41,720
@@ -572,7 +572,7 @@ Eh oh
 
 140
 00:34:20,767 --> 00:34:23,998
-Laa Laa saw that
+Laa-Laa saw that
 Po had left her present behind
 
 141
@@ -597,7 +597,7 @@ Po! Po! Po
 
 146
 00:35:09,247 --> 00:35:10,680
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 147
 00:35:10,967 --> 00:35:11,877
@@ -719,7 +719,7 @@ Eh oh, Po
 
 176
 00:38:29,887 --> 00:38:31,002
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 177
 00:38:32,287 --> 00:38:33,720
@@ -851,7 +851,7 @@ Eh oh
 
 208
 00:47:25,247 --> 00:47:26,441
-Laa Laa! Laa Laa!
+Laa-Laa! Laa-Laa!
 
 209
 00:47:27,407 --> 00:47:28,044
@@ -887,12 +887,12 @@ Dipsy got a cracker
 
 217
 00:47:45,767 --> 00:47:48,520
-Dipsy asked Laa Laa
+Dipsy asked Laa-Laa
 to help him pull the cracker
 
 218
 00:47:50,887 --> 00:47:52,479
-Laa Laa help Dipsy
+Laa-Laa help Dipsy
 
 219
 00:47:53,607 --> 00:47:54,357
@@ -900,17 +900,17 @@ Yes
 
 220
 00:47:58,127 --> 00:48:01,915
-Dipsy and Laa Laa pulled
+Dipsy and Laa-Laa pulled
 as hard as they could
 
 221
 00:48:25,087 --> 00:48:28,841
-But Dipsy and Laa Laa were not strong
+But Dipsy and Laa-Laa were not strong
 enough to pull the cracker
 
 222
 00:48:31,727 --> 00:48:35,561
-Dipsy and Laa Laa not strong enough
+Dipsy and Laa-Laa not strong enough
 
 223
 00:48:36,367 --> 00:48:38,676
@@ -935,7 +935,7 @@ Look
 
 228
 00:49:21,647 --> 00:49:26,038
-Dipsy and Laa Laa asked Tinky Winky
+Dipsy and Laa-Laa asked Tinky Winky
 if he would help pull the cracker
 
 229
@@ -952,7 +952,7 @@ hooray
 
 232
 00:49:48,927 --> 00:49:53,637
-Dipsy and Laa Laa and Tinky Winky
+Dipsy and Laa-Laa and Tinky Winky
 pulled as hard as they could
 
 233
@@ -965,7 +965,7 @@ Pull! Pull
 
 235
 00:50:36,767 --> 00:50:38,803
-But Tinky Winky Dipsy and Laa Laa
+But Tinky Winky Dipsy and Laa-Laa
 
 236
 00:50:39,127 --> 00:50:41,357
@@ -991,7 +991,7 @@ Eh oh, Dipsy
 
 241
 00:51:15,687 --> 00:51:16,836
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 242
 00:51:17,087 --> 00:51:18,759
@@ -999,7 +999,7 @@ Eh oh, Po
 
 243
 00:51:19,967 --> 00:51:22,925
-Tinky Winky Dipsy and Laa Laa asked Po
+Tinky Winky Dipsy and Laa-Laa asked Po
 
 244
 00:51:23,087 --> 00:51:24,839
@@ -1020,7 +1020,7 @@ hooray
 
 248
 00:51:39,567 --> 00:51:45,403
-Dipsy and Laa Laa and Tinky Winky
+Dipsy and Laa-Laa and Tinky Winky
 and Po pulled as hard as they could
 
 249
@@ -1248,7 +1248,7 @@ Eh oh, Dipsy
 
 303
 01:01:42,647 --> 01:01:43,636
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 304
 01:01:43,887 --> 01:01:44,717
@@ -1260,7 +1260,7 @@ Eh oh, Dipsy
 
 306
 01:01:46,847 --> 01:01:47,882
-Eh oh, Laa Laa
+Eh oh, Laa-Laa
 
 307
 01:01:48,367 --> 01:01:49,197
@@ -1280,7 +1280,7 @@ Star
 
 311
 01:02:06,767 --> 01:02:09,679
-Laa Laa and Dipsy wondered
+Laa-Laa and Dipsy wondered
 where the star was going
 
 312
@@ -1289,7 +1289,7 @@ Where star going
 
 313
 01:02:14,727 --> 01:02:18,163
-Tinky Winky Dipsy Laa Laa and Po
+Tinky Winky Dipsy Laa-Laa and Po
 followed the star
 
 314
@@ -1298,7 +1298,7 @@ Follow the star
 
 315
 01:02:52,007 --> 01:02:56,046
-Tinky Winky Po Laa Laa and Dipsy
+Tinky Winky Po Laa-Laa and Dipsy
 followed the star
 
 316
@@ -1359,7 +1359,7 @@ Bye-bye
 
 329
 01:04:42,887 --> 01:04:43,717
-Bye-bye, Laa Laa
+Bye-bye, Laa-Laa
 
 330
 01:04:44,007 --> 01:04:45,042
@@ -1411,7 +1411,7 @@ Bye-bye
 
 342
 01:05:18,327 --> 01:05:19,123
-Bye-bye, Laa Laa
+Bye-bye, Laa-Laa
 
 343
 01:05:20,167 --> 01:05:21,156
