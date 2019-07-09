@@ -249,7 +249,7 @@ We are going to pick some of the . . .
 63
 00:06:23,847 --> 00:06:26,441
 You want to come too
-cone on then come on
+come on then come on
 
 64
 00:06:26,727 --> 00:06:28,797
@@ -576,7 +576,7 @@ We are going to pick some of the . . .
 142
 00:11:21,967 --> 00:11:24,640
 You want to come too
-cone on then come on
+come on then come on
 
 143
 00:11:24,807 --> 00:11:27,002
